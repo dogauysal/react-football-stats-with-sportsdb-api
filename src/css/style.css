@@ -1,0 +1,60 @@
+h1 {
+    text-align: center;
+}
+
+ul > li.page-item {
+    width: 50px;
+    text-align: center; 
+}
+
+.fixture {
+    display: table;
+    width: 100%;
+}
+
+.fixture > ul {
+    list-style: none;
+}
+
+.fixture > ul > li {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 25px;
+}
+
+.fixture > ul > li > .teams  {
+    text-align: center;
+}
+
+.fixture > ul > li > .teams > .home {
+    display: inline-block;
+    width: 40%;
+}
+
+.fixture > ul > li > .teams > .score {
+    display: inline-block;
+    border: 1px solid gainsboro;
+    padding: 3px;
+}
+
+.fixture > ul > li > .teams > .score > .homeScore {
+    display: inline-block;
+}
+
+.fixture > ul > li > .teams > .score > .divider {
+    display: inline-block;
+    padding: 10px;
+}
+
+.fixture > ul > li > .teams > .score > .awayScore {
+    display: inline-block;
+}
+
+.fixture > ul > li > .teams > .away {
+    display: inline-block;
+    width: 40%;
+}
+
+.selected_gameweek {
+    background: lightblue;
+}

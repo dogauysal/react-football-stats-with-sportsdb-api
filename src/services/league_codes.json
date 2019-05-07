@@ -1,0 +1,37 @@
+[
+    {
+        "league_id": 4328,
+        "league_title": "Premier League",
+        "league_season_id": 1819,
+        "number_of_teams": 20,
+        "number_of_gameweeks": 38
+    },
+    {
+        "league_id": 4331,
+        "league_title": "Bundesliga",
+        "league_season_id": 1819,
+        "number_of_teams": 18,
+        "number_of_gameweeks": 34
+    },
+    {
+        "league_id": 4332,
+        "league_title": "Serie A",
+        "league_season_id": 1819,
+        "number_of_teams": 20,
+        "number_of_gameweeks": 38
+    },
+    {
+        "league_id": 4334,
+        "league_title": "Ligue 1",
+        "league_season_id": 1819,
+        "number_of_teams": 20,
+        "number_of_gameweeks": 38
+    },
+    {
+        "league_id": 4335,
+        "league_title": "La Liga",
+        "league_season_id": 1819,
+        "number_of_teams": 20,
+        "number_of_gameweeks": 38
+    }
+]
